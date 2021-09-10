@@ -38,7 +38,7 @@ header {
     align-items: flex-end;
     color: white;
     padding: 3.2rem;
-    background-image: url('../images/banner.jpeg');
+    background-image: url('../images/banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -93,22 +93,22 @@ header .row {
     background-position: center;
 }
 .gallery .gallery-img-1 {
-    background-image: url(../images/gallery-1.jpeg);
+    background-image: url('../images/gallery-1.jpg');
 }
 .gallery .gallery-img-2 {
-    background-image: url(../images/gallery-2.jpeg);
+    background-image: url('../images/gallery-2.jpg');
 }
 .gallery .gallery-img-3 {
-    background-image: url(../images/gallery-3.jpeg);
+    background-image: url('../images/gallery-3.jpg');
 }
 .gallery .gallery-img-4 {
-    background-image: url(../images/gallery-4.jpeg);
+    background-image: url('../images/gallery-4.jpg');
 }
 .gallery .gallery-img-5 {
-    background-image: url(../images/gallery-5.jpeg);
+    background-image: url('../images/gallery-5.jpg');
 }
 .gallery .gallery-img-6 {
-    background-image: url(../images/gallery-6.jpeg);
+    background-image: url('../images/gallery-6.jpg');
 }
 .coming-soon {
     background-color: #d9b1b3;
@@ -212,17 +212,17 @@ header .row {
 
 }
 .slide-img-1 {
-    background-image: url(../images/slide-1.jpg);
+    background-image: url('../images/slide-1.jpg');
 }
 .slide-img-2 {
-    background-image: url(../images/slide-2.jpg);
+    background-image: url('../images/slide-2.jpg');
 }
 
 .slide-img-3  {
-    background-image: url(../images/slide-3.jpg);
+    background-image: url('../images/slide-3.jpg');
 }
 .slide-img-4  {
-    background-image: url(../images/slide-4.jpg);
+    background-image: url('../images/slide-4.jpg');
 }
 .slide-icon-container {
     margin-top: 1.4rem;
@@ -300,8 +300,7 @@ button:hover {
     margin-top: 5.5rem;
 }
 .subscription-img-container {
-    background-image: url('../images/subscribe.jpeg');
-    background: url("../images/subscribe.jpeg");
+    background-image: url('../images/subscribe.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
